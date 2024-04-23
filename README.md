@@ -1,10 +1,12 @@
 Welcome to MediBot: Your Personalized Health Assistant
 
 Introduction
+
 MediBot is an innovative health assistant designed to empower users in managing their health effectively. With advanced algorithms and cutting-edge technology, MediBot provides users with personalized health guidance based on their symptoms, potential disease diagnoses, and tailored precautions instantly. Say goodbye to uncertainty and hello to a healthier, happier you with MediBot.
 
 
 Features
+
 Symptom Input: Users can input their symptoms, and MediBot will analyze them to provide potential disease diagnoses.
 
 Swift Guidance: With advanced algorithms, MediBot ensures swift and accurate guidance, saving users valuable time and providing peace of mind.
