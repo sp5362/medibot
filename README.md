@@ -25,3 +25,4 @@ Check Library Installation: Ensure that all required libraries, including pyttsx
 Folder Setup: Create two folders within the application directory: Data and MasterData. Upload the provided dataset files to the Data folder and the remaining files to the MasterData folder.
 
 Launch MediBot: Run the application, input your symptoms, and let MediBot provide you with personalized health guidance.
+
